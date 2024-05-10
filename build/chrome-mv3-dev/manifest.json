@@ -1,19 +1,19 @@
 {
     "icons": {
-      "16": "logo.png",
-      "32": "logo.png",
-      "48": "logo.png",
-      "64": "logo.png",
-      "128": "logo.png"
+      "16": "icon16.plasmo.9f44d99c.png",
+      "32": "icon32.plasmo.83dbbbab.png",
+      "48": "icon48.plasmo.a78c509e.png",
+      "64": "icon64.plasmo.15206795.png",
+      "128": "icon128.plasmo.c11f39af.png"
     },
     "manifest_version": 3,
     "action": {
       "default_icon": {
-        "16": "logo.png",
-        "32": "logo.png",
-        "48": "logo.png",
-        "64": "logo.png",
-        "128": "logo.png"
+        "16": "icon16.plasmo.9f44d99c.png",
+        "32": "icon32.plasmo.83dbbbab.png",
+        "48": "icon48.plasmo.a78c509e.png",
+        "64": "icon64.plasmo.15206795.png",
+        "128": "icon128.plasmo.c11f39af.png"
       },
       "default_popup": "popup.html"
     },
@@ -24,11 +24,6 @@
     "host_permissions": [
       "https://*/*"
     ],
-    "permissions": [
-        "tabs",
-        "activeTab",
-        "storage"
-    ],    
     "background": {
       "service_worker": "plasmo-default-background.ffffaf1d.js"
     },
