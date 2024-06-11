@@ -11,5 +11,8 @@
     "tabs",
     "activeTab",
     "storage"
-  ]
+  ],
+  "background": {
+    "persistent": false
+  }
 }
